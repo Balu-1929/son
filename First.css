@@ -1,0 +1,17 @@
+.balu {
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+.balu input[type=text]{
+    border: 3px solid blue;
+    height: 50px;
+    width:150px;
+    margin-top: 30px;
+
+}
+.balu button{
+    height: 50px;
+    width: 120px;
+    font-size:large;
+}

@@ -1,0 +1,28 @@
+
+.side #top{
+    width: 65px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+#top:hover{
+    background-color: rgb(44, 44, 207);
+    color: aliceblue
+}
+.side #most{
+    width: 75px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+#most:hover{
+    background-color: rgb(44, 44, 207);
+    color: aliceblue
+}
+.side #recent{
+    width: 75px;
+    font-weight: bold;
+}
+#recent:hover{
+    background-color: rgb(44, 44, 207);
+    color: aliceblue
+}
+

@@ -1,0 +1,133 @@
+
+.main{
+    text-align: center;
+    font-weight: bold;
+    font:italic;
+    color: rgb(250, 248, 247);
+
+}
+
+.main #black{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left:50px ;
+}
+.cont{
+    display: flex; 
+    gap: 35px;      
+    padding: 20px;
+}
+.cont img{
+    max-width: 240px;
+    border: 2px rgb(246, 242, 242) ;
+    border-radius: 9px;
+}
+.main #so{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 95px;
+}
+.main #na{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 75px;
+}
+.main #att{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 70px;
+}
+.main #mik{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 75px;
+}
+.main #x{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 70px;
+}
+.main #dem{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 70px;
+}
+.con{
+    display: flex; 
+    gap: 35px;      
+    padding: 20px;
+}
+.con img{
+    max-width: 240px;
+    border: 2px rgb(246, 242, 242) ;
+    border-radius: 9px;
+}
+.main #sol{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 70px;
+}
+.main #not{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 110px;
+}
+.main #hai{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 130px;
+}
+.main #zor{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 100px;
+}
+.main #Bu{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 100px;
+}
+.main #kai{
+    float: left;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(242, 249, 249);
+    text-decoration: none;
+    margin-left: 100px;
+}

@@ -1,0 +1,38 @@
+
+.home{
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    grid-template-areas: 
+    "ani ani"
+    "side main"
+    "footer footer";
+}
+.ani {
+    grid-area: ani;
+    height: 15vh;
+    background-color: rgba(35, 35, 235, 0.758);
+    text-align: center;
+    color: aliceblue;
+}
+.side {
+    grid-area: side;
+    height: 150%;
+    width: 100px;
+    background-color: rgba(240, 191, 227, 0.822);
+    color: rgb(14, 26, 184);
+}
+.main{
+    grid-area: main;
+    height: 150% ;
+    background-color: rgba(38, 45, 40, 0.89);
+}
+.footer{
+    grid-area: footer;
+    height: 10px;
+    background-color: rgb(17, 232, 236);
+    color: rgb(31, 42, 198);
+    text-align: center;
+}
+.side #recent{
+    position: sticky;
+}
